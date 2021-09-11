@@ -6,7 +6,7 @@
       <button id='button' class='button'>追加</button>
     </div>
     <div class='Filter'>
-      <button class='button'>全て</button>
+      <button class='button'>全てよーん</button>
       <button class='button'>作業前</button>
       <button class='button'>作業中</button>
       <button class='button'>完了</button>
